@@ -1,3 +1,4 @@
+`V0.5` `20161203`
 # Tencent_SLK2WAV
 
 ## 功能简介
@@ -48,3 +49,5 @@
 
 ## 相关链接
 - [FolderListToCallBack-Bat](https://github.com/imfms/FolderListToCallBack-Bat) 遍历文件夹工具
+- [ffmpeg](http://ffmpeg.org/) 伟大开源解码工具
+
