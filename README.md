@@ -6,9 +6,9 @@
 使用了以下三方工具，在此感谢原作者的辛劳付出
 
 - FFmpeg
-	- FFmpeg developers
+	- [FFmpeg developers](http://ffmpeg.org/)
 - slk2pcm
-	- [unknown]
+	- [Microsoft Skype developer](https://web.archive.org/web/20130724103746/http://dev.skype.com/silk)
 - split
 	- Torbjorn Granlund 
 	- Richard M. Stallman
@@ -16,9 +16,9 @@
 ### 功能列表
 
 - `SLK2WAV.bat` SLK转换为WAV格式工具
-- `SLK2WAV_FAST.bat` SLK转换为WAV格式工具_快速并发模式(性能损耗大)
+- `SLK2WAV_FAST.bat` SLK转换为WAV格式工具_快速并发模式(并发数无限制,可能会使机器卡顿)
 - `SLK2MP3.bat` SLK转换为MP3格式工具
-- `SLK2MP3_FAST.bat` SLK转换为为Mp3格式工具_快速并发模式(性能损耗大)
+- `SLK2MP3_FAST.bat` SLK转换为为Mp3格式工具_快速并发模式(并发数无限制,可能会使机器卡顿)
 
 - `tool\FileName2CreateTime.bat` 小工具：更改文件名为其修改时间，微信、PCQQ音频存储为加密码，在分类时不太容易分辨，可以使用此工具进行重命名
 
@@ -48,6 +48,6 @@
 3. 某些包含特殊符号文件名的文件可能会无法转换
 
 ## 相关链接
-- [FolderListToCallBack-Bat](https://github.com/imfms/FolderListToCallBack-Bat) 遍历文件夹工具
+- [silk2pcm](https://web.archive.org/web/20130724103746/http://dev.skype.com/silk) silk2pcm
 - [ffmpeg](http://ffmpeg.org/) 伟大开源解码工具
-
+- [FolderListToCallBack-Bat](https://github.com/imfms/FolderListToCallBack-Bat) 遍历文件夹工具
