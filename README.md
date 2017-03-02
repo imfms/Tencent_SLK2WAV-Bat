@@ -8,7 +8,7 @@
 - FFmpeg
 	- [FFmpeg developers](http://ffmpeg.org/)
 - slk2pcm
-	- [Microsoft Skype developer](https://web.archive.org/web/20130724103746/http://dev.skype.com/silk)
+	- https://tools.ietf.org/html/draft-vos-silk-02#page-545
 - split
 	- Torbjorn Granlund 
 	- Richard M. Stallman
@@ -48,6 +48,6 @@
 3. 某些包含特殊符号文件名的文件可能会无法转换
 
 ## 相关链接
-- [silk2pcm](https://web.archive.org/web/20130724103746/http://dev.skype.com/silk) silk2pcm
+- [silk2pcm](https://tools.ietf.org/html/draft-vos-silk-02#page-545) silk2pcm
 - [ffmpeg](http://ffmpeg.org/) 伟大开源解码工具
 - [FolderListToCallBack-Bat](https://github.com/imfms/FolderListToCallBack-Bat) 遍历文件夹工具
