@@ -1,6 +1,8 @@
 `V0.5` `20161203`
 # Tencent_SLK2WAV
 
+[直接下载](https://github.com/imfms/Tencent_SLK2WAV-Bat/releases)
+
 ## 功能简介
 本工具用于转换腾讯系列产品语音文件(slk格式)为通用格式wav、mp3
 使用了以下三方工具，在此感谢原作者的辛劳付出
